@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Saifur Rahman Shihab
 
-<img src="[img_girl.jpg](https://drive.google.com/drive/my-drive)" >
-
 <!--
 **Saifur007/Saifur007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
